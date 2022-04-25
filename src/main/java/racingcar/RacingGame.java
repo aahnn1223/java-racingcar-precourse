@@ -8,7 +8,4 @@ public class RacingGame {
         cars.setAttendCarList();
     }
 
-    public void setCarsName(){
-
-    }
 }
