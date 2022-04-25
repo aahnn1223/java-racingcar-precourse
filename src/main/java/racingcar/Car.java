@@ -4,11 +4,8 @@ public class Car {
     private CarName name;
     private int position;
 
-    Car(){}
-    Car(String name, int position){
+    Car(String name){
         this.name = new CarName(name);
-        this.position = position;
+        this.position = 0;
     }
-
-
 }
