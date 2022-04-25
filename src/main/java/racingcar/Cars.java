@@ -24,7 +24,7 @@ public class Cars {
 
     private void setCarsName(String[] carsNameList) {
         for(int idx = 0; idx < carsNameList.length; idx++){
-            Cars.addCar(new Car(carsNameList[idx]));
+            Cars.addCar(new Car(carsNameList[idx].trim()));
         }
     }
 
