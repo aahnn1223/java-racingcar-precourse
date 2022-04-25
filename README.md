@@ -5,3 +5,10 @@
 
 ## 과제 제출 과정
 * [과제 제출 방법](https://github.com/next-step/nextstep-docs/tree/master/precourse)
+
+## 기능 목록
+### Car
+: 레이싱카 객체
+* name(이름), position (위치) 2개의 필드
+### RacingBoard
+: 레이싱 경주가 이루어지는 class
